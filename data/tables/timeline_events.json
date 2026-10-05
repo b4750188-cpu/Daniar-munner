@@ -1,0 +1,93 @@
+[
+  {
+    "id": "tl-2021-pawri",
+    "year": 2021,
+    "date": "2021-02-06",
+    "title": "The \"Pawri Hori Hai\" Viral Phenomenon",
+    "subtitle": "Global Cultural Breakthrough",
+    "category": "viral_breakthrough",
+    "description": "A spontaneous 5-second video from Nathiagali goes viral globally across Pakistan, India, and the diaspora, transforming Dananeer into an overnight internet sensation and pop culture icon.",
+    "contentItemId": "cnt-pawri-orig",
+    "sourceUrl": "https://www.instagram.com/p/CLABWqUha8j/",
+    "platform": "Instagram",
+    "verified": true
+  },
+  {
+    "id": "tl-2021-sinf-debut",
+    "year": 2021,
+    "date": "2021-11-27",
+    "title": "Television Acting Debut in \"Sinf-e-Aahan\"",
+    "subtitle": "Cast as Syeda Sidra in ISPR Mega-Project",
+    "category": "drama_debut",
+    "description": "Makes her high-profile acting debut alongside top industry stars in Nadeem Baig and Umera Ahmed's military drama Sinf-e-Aahan, earning praise for her natural comedic flair and grounded portrayal.",
+    "contentItemId": "cnt-sea-bts-ispr",
+    "sourceUrl": "https://arydigital.tv/dramas/sinf-e-aahan/",
+    "platform": "Broadcast",
+    "verified": true
+  },
+  {
+    "id": "tl-2022-zalmi",
+    "year": 2022,
+    "date": "2022-01-20",
+    "title": "Peshawar Zalmi Brand Ambassador",
+    "subtitle": "Pakistan Super League (PSL 7)",
+    "category": "brand_ambassador",
+    "description": "Named official youth and brand ambassador for Peshawar Zalmi in PSL 7, appearing in anthems, fan rallies, and digital youth campaigns.",
+    "contentItemId": "cnt-zalmi-ambassador-2022",
+    "sourceUrl": "https://x.com/PeshawarZalmi/status/1484128919246872580",
+    "platform": "X",
+    "verified": true
+  },
+  {
+    "id": "tl-2023-mgm-lead",
+    "year": 2023,
+    "date": "2023-04-28",
+    "title": "First Solo Lead Role in \"Muhabbat Gumshuda Meri\"",
+    "subtitle": "Critical & Commercial Television Triumph",
+    "category": "lead_role",
+    "description": "Takes center stage as Zobia opposite Khushhal Khan in HUM TV's coming-of-age romance, demonstrating powerful dramatic range and cementing her reputation as an A-list dramatic actress.",
+    "contentItemId": "cnt-mgm-ost-hum",
+    "sourceUrl": "https://www.hum.tv/dramas/muhabbat-gumshuda-meri/",
+    "platform": "Broadcast",
+    "verified": true
+  },
+  {
+    "id": "tl-2023-lsa-win",
+    "year": 2023,
+    "date": "2023-10-06",
+    "title": "Lux Style Award — Best Emerging Talent",
+    "subtitle": "Industry Peer Recognition",
+    "category": "award",
+    "description": "Wins the prestigious Lux Style Award for Best Emerging Talent in Television, celebrating her transition from digital content creator to recognized television star.",
+    "contentItemId": "cnt-lsa-2023-win",
+    "sourceUrl": "https://www.youtube.com/watch?v=7uV8hK3PnYq",
+    "platform": "Broadcast",
+    "verified": true
+  },
+  {
+    "id": "tl-2024-very-filmy",
+    "year": 2024,
+    "date": "2024-03-12",
+    "title": "Lead in Ramadan Special \"Very Filmy\"",
+    "subtitle": "Romantic Comedy Stardom on HUM TV",
+    "category": "lead_role",
+    "description": "Stars as Sania opposite Ameer Gilani in HUM TV's vibrant Ramadan serial, winning audience hearts with sparkling comedic timing and retro-cinema homages.",
+    "contentItemId": "cnt-something-haute-2024",
+    "sourceUrl": "https://www.hum.tv/dramas/very-filmy/",
+    "platform": "Broadcast",
+    "verified": true
+  },
+  {
+    "id": "tl-2025-2026-archive",
+    "year": 2025,
+    "date": "2025-01-15",
+    "title": "Digital Expansion & International Brand Campaigns",
+    "subtitle": "Global Fashion Collaborations & New Productions",
+    "category": "media_appearance",
+    "description": "Continues expanding into premium digital content, YouTube episodic vlogs, and top-tier Pakistani fashion week presentations.",
+    "contentItemId": "cnt-dananeer-vlog-official",
+    "sourceUrl": "https://www.youtube.com/@DananeerM",
+    "platform": "YouTube",
+    "verified": true
+  }
+]

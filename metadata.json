@@ -1,0 +1,6 @@
+{
+  "name": "Dananeer — Cinematic Public Content Discovery Platform",
+  "description": "Discover, browse, search, and explore Dananeer Mobeen's publicly available digital presence, dramas, appearances, and media archive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,67 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-cinematic: 'Cinzel', serif;
+    --font-syne: 'Syne', sans-serif;
+    --font-sans: 'Plus Jakarta Sans', system-ui, sans-serif;
+    color-scheme: dark;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    background-color: #06080d;
+    color: #e5e7eb;
+    overflow-x: hidden;
+  }
+}
+
+.font-cinematic {
+  font-family: var(--font-cinematic);
+}
+
+.font-syne {
+  font-family: var(--font-syne);
+}
+
+/* Custom dark scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #080b12;
+}
+::-webkit-scrollbar-thumb {
+  background: #1f293d;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #ec4899;
+}
+
+/* Smooth glass effect */
+.glass-panel {
+  background: rgba(13, 17, 27, 0.75);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.07);
+}
+
+.glass-panel-hover {
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.glass-panel-hover:hover {
+  background: rgba(22, 28, 44, 0.85);
+  border-color: rgba(236, 72, 153, 0.35);
+  box-shadow: 0 10px 30px -10px rgba(236, 72, 153, 0.15);
+}
+
+/* Hide scrollbar for clean horizontal platform tabs */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}

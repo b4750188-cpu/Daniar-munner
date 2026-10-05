@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ep-mgm-01",
+    "dramaId": "muhabbat-gumshuda-meri",
+    "episodeNumber": 1,
+    "title": "Muhabbat Gumshuda Meri - Episode 01",
+    "airDate": "2023-04-28",
+    "sourceUrl": "https://www.youtube.com/watch?v=3gB9GjH8PzI",
+    "embedUrl": "https://www.youtube.com/embed/3gB9GjH8PzI",
+    "thumbnailUrl": "/src/assets/images/drama_muhabbat_gumshuda_1791045494787.jpg",
+    "duration": "42:15",
+    "synopsis": "Introduction of Zobia and Saim as next-door childhood companions in Islamabad navigating their teenage years, high school tensions, and budding affection."
+  },
+  {
+    "id": "ep-mgm-final",
+    "dramaId": "muhabbat-gumshuda-meri",
+    "episodeNumber": 26,
+    "title": "Muhabbat Gumshuda Meri - Last Episode",
+    "airDate": "2023-10-27",
+    "sourceUrl": "https://www.youtube.com/watch?v=kY0wU9fQ2hA",
+    "embedUrl": "https://www.youtube.com/embed/kY0wU9fQ2hA",
+    "thumbnailUrl": "/src/assets/images/drama_muhabbat_gumshuda_1791045494787.jpg",
+    "duration": "48:30",
+    "synopsis": "The highly anticipated emotional finale where Zobia and Saim face the culmination of their difficult journeys, leading to an iconic resolution for viewers."
+  },
+  {
+    "id": "ep-sea-01",
+    "dramaId": "sinf-e-aahan",
+    "episodeNumber": 1,
+    "title": "Sinf-e-Aahan - Episode 01",
+    "airDate": "2021-11-27",
+    "sourceUrl": "https://www.youtube.com/watch?v=qT5xV8zL4mU",
+    "embedUrl": "https://www.youtube.com/embed/qT5xV8zL4mU",
+    "thumbnailUrl": "/src/assets/images/drama_sinf_e_aahan_1791045507812.jpg",
+    "duration": "45:10",
+    "synopsis": "The journey begins: Syeda Sidra (Dananeer Mobeen), a lively and witty girl from a conservative family, dreams of joining the army despite comedic domestic hurdles."
+  },
+  {
+    "id": "ep-vf-01",
+    "dramaId": "very-filmy",
+    "episodeNumber": 1,
+    "title": "Very Filmy - Episode 01",
+    "airDate": "2024-03-12",
+    "sourceUrl": "https://www.youtube.com/watch?v=mD4nK7pY3vE",
+    "embedUrl": "https://www.youtube.com/embed/mD4nK7pY3vE",
+    "thumbnailUrl": "/src/assets/images/drama_very_filmy_1791045519163.jpg",
+    "duration": "38:40",
+    "synopsis": "Sania is introduced with grand cinematic dreams and romantic ideals, clashing humorously with family traditions during Ramadan."
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "id": "muhabbat-gumshuda-meri",
+    "title": "Muhabbat Gumshuda Meri",
+    "slug": "muhabbat-gumshuda-meri",
+    "year": 2023,
+    "character": "Zobia (Zubia)",
+    "network": "HUM TV",
+    "networkChannel": "HUM TV Official",
+    "officialSource": "https://www.hum.tv/dramas/muhabbat-gumshuda-meri/",
+    "totalEpisodes": 26,
+    "status": "Completed",
+    "synopsis": "A coming-of-age romantic drama centered on childhood neighbors Zobia and Saim whose youthful love faces intense societal opposition, family resistance, and harsh coming-of-age realities.",
+    "posterUrl": "/src/assets/images/drama_muhabbat_gumshuda_1791045494787.jpg",
+    "backdropUrl": "/src/assets/images/drama_muhabbat_gumshuda_1791045494787.jpg",
+    "director": "Shahid Shafaat",
+    "writer": "Rahat Jabeen",
+    "coStars": [
+      "Khushhal Khan",
+      "Omair Rana",
+      "Farah Sadia",
+      "Ayesha Toor",
+      "Ali Tahir"
+    ],
+    "accolades": [
+      "Lux Style Award for Best Emerging Talent in Television (Dananeer Mobeen)",
+      "Viewer Choice Drama of the Year (Nominee)"
+    ],
+    "officialPlaylistUrl": "https://www.youtube.com/playlist?list=PLbV86997n4h6Uu_x-yQ5cZ5A3sHk6KxIu"
+  },
+  {
+    "id": "sinf-e-aahan",
+    "title": "Sinf-e-Aahan",
+    "slug": "sinf-e-aahan",
+    "year": 2021,
+    "character": "Syeda Sidra",
+    "network": "ARY Digital",
+    "networkChannel": "ARY Digital HD / ISPR",
+    "officialSource": "https://arydigital.tv/dramas/sinf-e-aahan/",
+    "totalEpisodes": 24,
+    "status": "Completed",
+    "synopsis": "Produced by ISPR, Six Sigma Plus and Next Level Entertainment, this groundbreaking military drama chronicles the arduous journey of five young women from diverse cultural backgrounds undergoing training as cadets at the Pakistan Military Academy (PMA) Kakul.",
+    "posterUrl": "/src/assets/images/drama_sinf_e_aahan_1791045507812.jpg",
+    "backdropUrl": "/src/assets/images/drama_sinf_e_aahan_1791045507812.jpg",
+    "director": "Nadeem Baig",
+    "writer": "Umera Ahmed",
+    "coStars": [
+      "Sajal Aly",
+      "Yumna Zaidi",
+      "Kubra Khan",
+      "Ramsha Khan",
+      "Syra Yousuf",
+      "Sheheryar Munawar",
+      "Usman Mukhtar"
+    ],
+    "accolades": [
+      "Lux Style Awards - Best Television Play",
+      "Special Recognition by ISPR for Youth Motivation"
+    ],
+    "officialPlaylistUrl": "https://www.youtube.com/playlist?list=PLbV86997n4h6SinfEAahanOfficial"
+  },
+  {
+    "id": "very-filmy",
+    "title": "Very Filmy",
+    "slug": "very-filmy",
+    "year": 2024,
+    "character": "Sania",
+    "network": "HUM TV",
+    "networkChannel": "HUM TV Official",
+    "officialSource": "https://www.hum.tv/dramas/very-filmy/",
+    "totalEpisodes": 30,
+    "status": "Completed",
+    "synopsis": "A fast-paced Ramadan special romantic comedy filled with cinematic homages, lively banter, and family drama. Dananeer stars as Sania opposite Ameer Gilani in a vibrant story about family expectations and movie-style romance.",
+    "posterUrl": "/src/assets/images/drama_very_filmy_1791045519163.jpg",
+    "backdropUrl": "/src/assets/images/drama_very_filmy_1791045519163.jpg",
+    "director": "Ali Hassan",
+    "writer": "Muhammad Ahmed",
+    "coStars": [
+      "Ameer Gilani",
+      "Bushra Ansari",
+      "Ali Safina",
+      "Mira Sethi",
+      "Umer Khan"
+    ],
+    "accolades": [
+      "Top Rated Ramadan Comedy 2024",
+      "Digital Viewership Milestone Award"
+    ],
+    "officialPlaylistUrl": "https://www.youtube.com/playlist?list=PLbV86997n4h6VeryFilmyOfficial"
+  }
+]

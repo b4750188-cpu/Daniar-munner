@@ -1,0 +1,68 @@
+[
+  {
+    "id": "youtube",
+    "name": "YouTube",
+    "displayName": "YouTube",
+    "configured": true,
+    "status": "ACTIVE",
+    "description": "Indexes official channel uploads, drama episodes, OSTs, and verified interviews via YouTube Data API v3.",
+    "requiredEnvVar": "YOUTUBE_API_KEY",
+    "itemCount": 272,
+    "lastSyncAt": "2026-10-03T16:44:16.282Z"
+  },
+  {
+    "id": "instagram",
+    "name": "Instagram",
+    "displayName": "Instagram",
+    "configured": false,
+    "status": "NOT_CONFIGURED",
+    "description": "Indexes public verified reels, fashion portraits, and official announcements via Instagram Graph API.",
+    "requiredEnvVar": "INSTAGRAM_ACCESS_TOKEN",
+    "itemCount": 2,
+    "lastSyncAt": "2026-10-03T16:44:16.282Z"
+  },
+  {
+    "id": "x",
+    "name": "X",
+    "displayName": "X (Twitter)",
+    "configured": false,
+    "status": "NOT_CONFIGURED",
+    "description": "Indexes verified brand partnerships, official statements, and media threads via X API v2.",
+    "requiredEnvVar": "X_BEARER_TOKEN",
+    "itemCount": 1,
+    "lastSyncAt": "2026-10-03T16:44:16.282Z"
+  },
+  {
+    "id": "snapchat",
+    "name": "Snapchat",
+    "displayName": "Snapchat",
+    "configured": false,
+    "status": "NOT_CONFIGURED",
+    "description": "Public Spotlight and story feed discovery integration.",
+    "requiredEnvVar": "SNAPCHAT_API_KEY",
+    "itemCount": 0,
+    "lastSyncAt": null
+  },
+  {
+    "id": "interview",
+    "name": "Interview",
+    "displayName": "Interviews & Press",
+    "configured": true,
+    "status": "ACTIVE",
+    "description": "Verified print, podcast, and video interview indexers (Something Haute, FUCHSIA, BBC Urdu, Dawn).",
+    "requiredEnvVar": "BUILT_IN_SOURCE",
+    "itemCount": 2,
+    "lastSyncAt": "2026-10-03T16:44:16.282Z"
+  },
+  {
+    "id": "broadcast",
+    "name": "Broadcast",
+    "displayName": "Broadcast & Awards",
+    "configured": true,
+    "status": "ACTIVE",
+    "description": "Official network broadcasts, Lux Style Awards, and ISPR documentary archives.",
+    "requiredEnvVar": "BUILT_IN_SOURCE",
+    "itemCount": 1,
+    "lastSyncAt": "2026-10-03T16:44:16.282Z"
+  }
+]
